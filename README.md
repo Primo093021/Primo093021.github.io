@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 歡迎來Primo的網站
 
-You can use the [editor on GitHub](https://github.com/Primo093021/Primo093021.github.io/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+### 自我介紹
+- 我的名字叫黃瑜珮，是資傳四乙的學生
+- 星座: 獅子座
+- 興趣: 聽音樂、運動、玩遊戲、喜歡吃甜食
+- 偶像: 蔡依林、西島隆弘、AAA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![AAA](https://img.imageimg.net/artist/aaa/img/profile.jpg)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[電腦圖學blog](https://2019graphics.blogspot.com/2019/06/week17_29.html)
 
-- Bulleted
-- List
+[專研溫泉網站社群](https://www.instagram.com/travel_hotspring/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Primo093021/Primo093021.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
