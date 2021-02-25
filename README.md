@@ -15,4 +15,26 @@
 
 [專研溫泉網站社群](https://www.instagram.com/travel_hotspring/)
 
+
+
+```
+#include <stdio.h>
+int main()
+{
+  printf("Hello~my name is Primo. Welcome to my website.")
+}
+```
+
+```Processing
+void setup()
+{
+  size(500,500);
+}
+void draw()
+{
+  background(255);
+  ellipse(200,200,30,30);
+}
+```
+
 ### E-mail: patty08217277@gmail.com
