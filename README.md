@@ -15,4 +15,4 @@
 
 [專研溫泉網站社群](https://www.instagram.com/travel_hotspring/)
 
-### Support or Contact
+### E-mail: patty08217277@gmail.com
